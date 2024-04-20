@@ -1,11 +1,6 @@
 def function1():
-    print("Hello, world 1")
+    print("Hello, world")
 
-
-function1()
 
 def function2():
-    print("Hello, world 2")
-
-
-function2()
+    print("Hello, world")
